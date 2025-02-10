@@ -3,7 +3,10 @@ title: "Untitled"
 output: html_document
 ---
 
+```{r}
+
 a <- 8
 b <- 7
 print(a + b)
 print(a * b)
+```
